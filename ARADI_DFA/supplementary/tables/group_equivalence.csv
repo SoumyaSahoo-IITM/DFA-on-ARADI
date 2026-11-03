@@ -1,0 +1,21 @@
+seed,PNDs,brute force over 2^16 equals product of column sets
+7000,6,yes
+7001,8,yes
+7002,10,yes
+7003,12,yes
+7004,14,yes
+7005,16,yes
+7006,18,yes
+7007,20,yes
+7008,6,yes
+7009,8,yes
+7010,10,yes
+7011,12,yes
+7012,14,yes
+7013,16,yes
+7014,18,yes
+7015,20,yes
+7016,6,yes
+7017,8,yes
+7018,10,yes
+7019,12,yes
