@@ -1,0 +1,9 @@
+window width m,differences,cancellation-free,certain patterns distinct,ambiguous patterns,differences involved
+1,32,32,yes,0,0
+2,63,63,yes,0,0
+3,123,123,yes,0,0
+4,239,239,yes,0,0
+5,463,463,yes,0,0
+6,895,815,yes,0,0
+7,1727,1519,yes,0,0
+8,3327,1667,yes,5,10

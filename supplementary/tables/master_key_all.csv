@@ -1,0 +1,6 @@
+conditions,PNDs per campaign,success,faults mean,max,log2 |K16| mean,max,tested mean,max,pairs to reject mean,max,time ms mean,max
+conditions $\mathcal{D}$,36+36+36,99.9%,108,108,3.09,22.5,142,65536,1.8,14,15,2965
+conditions $\mathcal{D}$,48+48+48,100.0%,144,144,0.89,13.5,16,11520,2.2,14,9,1066
+conditions $\mathcal{D}$,until unique,100.0%,150,279,0.00,0.0,1,1,--,--,8,17
+$\Delta z=1$ only,72+72+72,100.0%,216,216,2.33,11.8,22,3456,2.0,17,13,358
+$\Delta z=1$ only,until unique,100.0%,291,520,0.00,0.0,1,1,--,--,15,27

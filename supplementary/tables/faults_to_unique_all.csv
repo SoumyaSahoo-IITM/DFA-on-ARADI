@@ -1,0 +1,11 @@
+configuration,mean,std,min,median,90%,95%,99%,max,not unique within 400
+"nibble, $\Delta z=1$ only, round 15",97.6,27.0,45,92,132,148,191,297,0
+"nibble, conditions $\mathcal{D}$, round 15",50.9,14.3,23,48,69,77,97,145,0
+"aligned nibbles, conditions $\mathcal{D}$, round 15",46.7,11.4,20,45,61,68,82,122,0
+"single bit, round 15",102.9,24.4,47,99,135,148,177,263,0
+"byte window, round 15",29.0,8.5,12,28,40,45,57,96,0
+"whole word, round 15",15.1,3.1,8,15,19,21,25,35,0
+"nibble, conditions $\mathcal{D}$, round 14",49.4,12.6,21,47,66,73,88,139,0
+"nibble, conditions $\mathcal{D}$, round 13",51.1,14.1,22,49,69,78,96,160,0
+"nibble, $\Delta z=1$ only, round 14",95.5,24.1,43,91,127,139,173,307,0
+"nibble, $\Delta z=1$ only, round 13",98.0,26.1,45,93,131,146,184,307,0
