@@ -411,7 +411,7 @@ The activity pattern of each of the 239 PNDs under $L_2$ (and the cancellation c
 
 **Table: End-to-end recovery of the master key (1,000 keys per row). The one failure in the 36+36+36 row had $2^{22.5}$ candidates for $k_{16}$, above the enumeration limit of $2^{18}$.**
 
-| conditions | PNDs per campaign | success | faults mean | max | log2 |K16| mean | max | tested mean | max | pairs to reject mean | max | time ms mean | max |
+| conditions | PNDs per campaign | success | faults mean | max |log2 \|K16\| mean| max | tested mean | max | pairs to reject mean | max | time ms mean | max |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | conditions $\mathcal{D}$ | 36+36+36 | 99.9% | 108 | 108 | 3.09 | 22.5 | 142 | 65536 | 1.8 | 14 | 15 | 2965 |
 | conditions $\mathcal{D}$ | 48+48+48 | 100.0% | 144 | 144 | 0.89 | 13.5 | 16 | 11520 | 2.2 | 14 | 9 | 1066 |
