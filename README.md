@@ -113,6 +113,3 @@ description and the time stamp.
   2-vCPU Intel Xeon cloud container with Python 3.13; rerunning on another
   machine changes only the timings.
 
-## License
-
-MIT.
