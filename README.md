@@ -9,8 +9,7 @@ tables) is produced by the scripts in this repository.
 
 ## Supplementary material
 
-The paper refers to this repository for the material that did not fit in the
-page limit. It is in [`supplementary/`](supplementary/):
+It is in [`supplementary/`](supplementary/):
 
 * [`supplementary/README.md`](supplementary/README.md) — all supplementary
   tables, rendered by GitHub: the bit- and nibble-based propagation tables for
