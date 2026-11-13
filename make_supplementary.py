@@ -315,7 +315,7 @@ This document collects the material that the paper refers to the repository for:
                      f"{1000*ts['mean']:.0f}", f"{1000*ts['max']:.0f}"])
     both("master_key_all", ["conditions", "PNDs per campaign", "success", "faults mean", "max", "$\\log_2|\\mathcal{K}_{16}|$ mean", "max", "tested mean", "max", "pairs to reject mean", "max", "time ms mean", "max"], rows,
          f"End-to-end recovery of the master key ({mk['trials']:,} keys per row). The one failure in the 36+36+36 row had $2^{{22.5}}$ candidates for $k_{{16}}$, above the enumeration limit of $2^{{18}}$.",
-         "llrrrrrrrrrrr", star=True, md_header=["conditions", "PNDs per campaign", "success", "faults mean", "max", "log2 |K16| mean", "max", "tested mean", "max", "pairs to reject mean", "max", "time ms mean", "max"])
+         "llrrrrrrrrrrr", star=True, md_header=["conditions", "PNDs per campaign", "success", "faults mean", "max", "log2 \\|K16\\| mean", "max", "tested mean", "max", "pairs to reject mean", "max", "time ms mean", "max"])
 
     # ---------------------------------------------------------------- filter
     section("Robustness of the PND filter (Section III-F)")
